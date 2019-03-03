@@ -1,2 +1,2 @@
 # hello-world
-The first repository
+Hi. My name is Andrei and this is my first repository. ^^
